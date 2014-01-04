@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Hello!"
+date:   2014-01-04 01:02:00 +0800
+---
+
+Hi, everybody!
+
+This is my blog about bigdata and other interesting tech stuff. There is nothing
+here yet for the moment. Just write my first post to say "Hello" to you!
+
+This blog is powered by [Github Pages](http://pages.github.com/), 
+[Jekyll](http://jekyllrb.com/), [Bootstrap](http://getbootstrap.com/) and other
+opensource projects. I'm not quite a web-dev guy and this blog will never be 
+easily built up without these projects. For guys who develop these wonderful 
+tools, I owe you many thanks :-)
+
+Stay tuned!
